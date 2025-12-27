@@ -5,3 +5,5 @@ seaborn
 scikit-learn
 imbalanced-learn  # For handling class imbalance [cite: 752]
 category_encoders # For encoding features [cite: 649]
+shap            # For model interpretability [cite: 589]
+xgboost        # For gradient boosting models [cite: 533]
